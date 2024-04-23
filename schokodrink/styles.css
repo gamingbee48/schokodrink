@@ -1,0 +1,20 @@
+body {
+    background-image: url('background.jpg');
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center; /* Zentrierung horizontal */
+    align-items: center; /* Zentrierung vertikal */
+    height: 100vh; /* Vollständige Bildschirmhöhe */
+    margin: 0; /* Rand entfernen */
+
+  }
+
+
+.video {
+    border: 3px solid brown;
+    padding: 10px;
+}
+
